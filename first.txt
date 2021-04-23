@@ -1,0 +1,5 @@
+hello >>first.txt
+git add firt.txt
+
+
+echo hello
